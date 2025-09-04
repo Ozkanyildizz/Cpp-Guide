@@ -11,6 +11,7 @@ Amacımız, C++ diline yeni başlayan birinin hızlıca adaptasyon sağlamasıd�
 - Koşullar (`if`, `else`, `switch`)
 - Döngüler (`for`, `while`, `do-while`)
 - Giriş/Çıkış işlemleri (`cin`, `cout`)
+- Basit hesap makinesi örneği
 
 ## Hedef
 Bu bölümü tamamladıktan sonra temel programlama yapılarıyla kendi küçük C++ programlarınızı yazabileceksiniz.
