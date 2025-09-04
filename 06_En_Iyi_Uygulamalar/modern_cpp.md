@@ -1,4 +1,3 @@
-```markdown
 # Modern C++'a Giriş
 
 C++ dili, C++11 standardıyla başlayarak büyük bir değişim ve gelişim sürecine girdi. Bu bölüm, kodunuzu daha güvenli, daha kısa ve daha etkili hale getiren modern özellikleri tanıtır.
