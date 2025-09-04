@@ -1,37 +1,37 @@
-#include <iostream> // Giriþ/çýkýþ iþlemleri için gerekli kütüphane
+#include <iostream> // Giris/cýkýs islemleri icin gerekli kutuphane
 using namespace std;
 
 
 int main() {
-    // Tam sayý (integer) veri tipi
+    // Tam sayi (integer) veri tipi
     int sayi = 42;
     cout << "int: " << sayi << endl;
 
-    // Kýsa tam sayý (short) veri tipi
+    // Kisa tam sayi (short) veri tipi
     short kisaSayi = 10;
     cout << "short: " << kisaSayi << endl;
 
-    // Uzun tam sayý (long) veri tipi
+    // Uzun tam sayi (long) veri tipi
     long uzunSayi = 100000;
     cout << "long: " << uzunSayi << endl;
 
-    // Ýþaretsiz tam sayý (unsigned int) veri tipi
+    // Ýsaretsiz tam sayý (unsigned int) veri tipi
     unsigned int pozitifSayi = 100;
     cout << "unsigned int: " << pozitifSayi << endl;
 
-    // Ýþaretsiz uzun tam sayý (unsigned long) veri tipi
+    // Ýsaretsiz uzun tam sayý (unsigned long) veri tipi
     unsigned long pozitifUzunSayi = 1000000;
     cout << "unsigned long: " << pozitifUzunSayi << endl;
 
-    // Geniþ karakter (wchar_t) veri tipi
+    // Genis karakter (wchar_t) veri tipi
     wchar_t genisKarakter = L'Ç';
     wcout << L"wchar_t: " << genisKarakter << endl;
 
-    // Ondalýklý sayý (float) veri tipi
+    // Ondalikli sayi (float) veri tipi
     float kesirliSayi = 3.14f;
     cout << "float: " << kesirliSayi << endl;
 
-    // Daha hassas ondalýklý sayý (double) veri tipi
+    // Daha hassas ondalikli sayi (double) veri tipi
     double hassasSayi = 2.718281828;
     cout << "double: " << hassasSayi << endl;
 
