@@ -15,7 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03_OOP.cpp">
+    <ClCompile Include="01_SinifNesne.cpp" />
+  <ClCompile Include="02_YapiciYikici.cpp" />
+  <ClCompile Include="03_Kapsulleme.cpp" />
+  <ClCompile Include="04_Kalitim.cpp" />
+  <ClCompile Include="05_Polymorphism.cpp" />
+  <ClCompile Include="06_SoyutSinifArayuz.cpp" />
+  <ClCompile Include="07_OperatorOverloading.cpp" />
+  <ClCompile Include="08_OOPUygulamasi_OgrenciYonetim.cpp" />
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

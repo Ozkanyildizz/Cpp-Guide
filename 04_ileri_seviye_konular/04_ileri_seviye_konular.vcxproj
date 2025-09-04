@@ -127,7 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="04_ileri_seviye_konular.cpp" />
+    <ClCompile Include="01_PointerGiris.cpp" />
+  <ClCompile Include="02_Referanslar.cpp" />
+  <ClCompile Include="03_DinamikBellek.cpp" />
+  <ClCompile Include="04_SmartPointer.cpp" />
+  <ClCompile Include="05_Templates.cpp" />
+  <ClCompile Include="06_ExceptionHandling.cpp" />
+  <ClCompile Include="07_LambdaFonksiyonlar.cpp" />
+  <ClCompile Include="08_ModernC++Ozellikleri.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

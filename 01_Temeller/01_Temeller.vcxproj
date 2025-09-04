@@ -127,7 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Temeller.cpp" />
+    <!-- 01_Temeller -->
+  <ClCompile Include="01_HelloWorld.cpp" />
+  <ClCompile Include="02_Degiskenler.cpp" />
+  <ClCompile Include="03_Veritipleri.cpp" />
+  <ClCompile Include="04_Operatorler.cpp" />
+  <ClCompile Include="05_Kosullar.cpp" />
+  <ClCompile Include="06_Donguler.cpp" />
+  <ClCompile Include="07_InputOutput.cpp" />
+  <ClCompile Include="08_TemelUygulama_HesapMakinesi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

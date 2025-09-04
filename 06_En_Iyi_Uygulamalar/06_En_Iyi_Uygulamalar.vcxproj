@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e4b54098-617f-464e-9e85-46a90b459552}</ProjectGuid>
-    <RootNamespace>My03OOP</RootNamespace>
+    <ProjectGuid>{6937c749-351c-4165-9528-a712ab39db10}</ProjectGuid>
+    <RootNamespace>My06EnIyiUygulamalar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,14 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-     <ClCompile Include="01_SinifNesne.cpp" />
-  <ClCompile Include="02_YapiciYikici.cpp" />
-  <ClCompile Include="03_Kapsulleme.cpp" />
-  <ClCompile Include="04_Kalitim.cpp" />
-  <ClCompile Include="05_Polymorphism.cpp" />
-  <ClCompile Include="06_SoyutSinifArayuz.cpp" />
-  <ClCompile Include="07_OperatorOverloading.cpp" />
-  <ClCompile Include="08_OOPUygulamasi_OgrenciYonetim.cpp" />
+    <ClCompile Include="01_KodlamaStandartlari.cpp" />
+  <ClCompile Include="02_YorumlamaVeDokumantasyon.cpp" />
+  <ClCompile Include="03_DebuggingOrnekleri.cpp" />
+  <ClCompile Include="04_BellekYonetimiOrnekleri.cpp" />
+  <ClCompile Include="05_PerformansIpuclari.cpp" />
+  <ClCompile Include="06_CleanCodeOrnekleri.cpp" />
+  <ClCompile Include="07_ProjeKlasorYapisi.cpp" />
+  <ClCompile Include="08_FinalUygulama_MiniProje.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

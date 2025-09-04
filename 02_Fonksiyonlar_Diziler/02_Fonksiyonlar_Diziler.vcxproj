@@ -127,7 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02_Fonksiyonlar_Diziler.cpp" />
+    <ClCompile Include="01_Fonksiyonlar_Giris.cpp" />
+  <ClCompile Include="02_Parametreler_DonusDegerleri.cpp" />
+  <ClCompile Include="03_DegerReferansFarki.cpp" />
+  <ClCompile Include="04_RekursifFonksiyon.cpp" />
+  <ClCompile Include="05_TekBoyutluDizi.cpp" />
+  <ClCompile Include="06_CokBoyutluDizi.cpp" />
+  <ClCompile Include="07_KarakterDizileri.cpp" />
+  <ClCompile Include="08_DiziUygulamasi_Siralama.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

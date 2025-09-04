@@ -15,16 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    
-    <!-- 01_Temeller -->
-  <ClCompile Include="01_HelloWorld.cpp" />
-  <ClCompile Include="02_Degiskenler.cpp" />
-  <ClCompile Include="03_Veritipleri.cpp" />
-  <ClCompile Include="04_Operatorler.cpp" />
-  <ClCompile Include="05_Kosullar.cpp" />
-  <ClCompile Include="06_Donguler.cpp" />
-  <ClCompile Include="07_InputOutput.cpp" />
-  <ClCompile Include="08_TemelUygulama_HesapMakinesi.cpp" />
+    <ClCompile Include="01_KodlamaStandartlari.cpp" />
+  <ClCompile Include="02_YorumlamaVeDokumantasyon.cpp" />
+  <ClCompile Include="03_DebuggingOrnekleri.cpp" />
+  <ClCompile Include="04_BellekYonetimiOrnekleri.cpp" />
+  <ClCompile Include="05_PerformansIpuclari.cpp" />
+  <ClCompile Include="06_CleanCodeOrnekleri.cpp" />
+  <ClCompile Include="07_ProjeKlasorYapisi.cpp" />
+  <ClCompile Include="08_FinalUygulama_MiniProje.cpp" />
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
