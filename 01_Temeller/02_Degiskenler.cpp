@@ -1,7 +1,7 @@
 #include <iostream> // Giriþ/çýkýþ iþlemleri için gerekli kütüphane
 using namespace std;
 
-#if 0
+
 int main() {
 	// Ayný türdeki deðiþkenler yan yana tanýmlanabilir
 	int a, b;
@@ -18,4 +18,3 @@ int main() {
 	cout << result; // Ekrana 10 yazdýrýlýr
 	return 0; // Program baþarýyla sona erdiðinde 0 döndürür
 }
-#endif

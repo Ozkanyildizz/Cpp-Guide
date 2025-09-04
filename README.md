@@ -19,11 +19,12 @@ C++, yazılım dünyasının en güçlü ve en hızlı dillerinden biridir. Oyun
 ### **Nasıl Kullanılır?**
 
 1.  Bu depoyu yerel bilgisayarınıza klonlayın:
-    `git clone https://github.com/ozkanyildizz/cpp-guide-repo.git`
+    `git clone https://github.com/Ozkanyildizz/Cpp-Guide.git`
 2.  Klasörleri sırasıyla, **01**'den başlayarak takip edin.
 3.  Her klasörün içindeki `README.md` dosyalarını okuyarak o konunun detaylarını ve örneklerini inceleyin.
 4.  Kodları kendiniz derleyip çalıştırın ve üzerinde denemeler yapın.
-
+5.  Bir projede birden fazla main fonksiyonu olursa derleme hatası oluşur. Bunu önlemek için kodun başına `#if 0` ve sonuna `#endif` ekleyerek o bölümü geçici olarak devre dışı bırakıyoruz. Böylece o kod derlenmez ve hata alınmaz.
+  
 ---
 
 ### **Konu Akışı**
@@ -60,17 +61,13 @@ Aşağıdaki konular, rehberin ana yapısını oluşturur. Üzerlerine tıklayar
     * Hata Yönetimi (`try`, `catch`)
     * Mini Proje Örnekleri
 
+
 ---
 
 ### **Katkıda Bulunma**
 
 Bu rehberi daha iyi hale getirmemize yardımcı olmak isterseniz katkılarınızı bekleriz! Bir yazım hatası bulursanız, daha iyi bir örnek kodunuz varsa veya yeni bir konu eklemek isterseniz, lütfen bir "Pull Request" gönderin.
 
----
-
-### **Lisans**
-
-Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ---
 

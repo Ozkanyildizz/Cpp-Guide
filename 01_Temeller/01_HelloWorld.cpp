@@ -1,14 +1,8 @@
-#include <iostream> // Giriþ/çýkýþ iþlemleri için gerekli kütüphane
+#include <iostream> // Giris/cikis islemleri icin gerekli kütüphane
 
-#if 0
-int main() // Ana fonksiyon. Program ilk çalýþtýðýnda çaðrýlan fonksion
+int main() // Ana fonksiyon. Program ilk çalýstýgýnda cagrilan fonksion her c++ projesinde olmasý zorunlu fonksiyon
 {
-	// 5 kez "Hello World!" yazdýrmak için döngü
-	for (int i = 0; i < 5; i++)
-	{
-		std::cout << "Hello World!\n"; // Ekrana mesajý yazdýrýr
-	}
-	return 0;
-	// Program baþarýyla sona erdiðinde 0 döndürür (varsayýlan)
+	
+	std::cout << "Hello World!\n"; // Ekrana mesajý yazdirir
+	return 0; // Program basariyla sona erdiginde 0 dondurur (varsayilan)
 };
-#endif

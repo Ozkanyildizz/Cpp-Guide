@@ -1,7 +1,6 @@
 #include <iostream> // Giriþ/çýkýþ iþlemleri için gerekli kütüphane
 using namespace std;
 
-#if 0
 int main() {
     // 1. for döngüsü
     cout << "for döngüsü ile 1'den 5'e kadar sayýlar:" << endl;
@@ -64,4 +63,3 @@ int main() {
     return 0; // Program baþarýyla sona erdiðinde 0 döndürür
 }
 
-#endif

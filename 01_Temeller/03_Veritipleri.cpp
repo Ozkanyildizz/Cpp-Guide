@@ -1,7 +1,7 @@
 #include <iostream> // Giriþ/çýkýþ iþlemleri için gerekli kütüphane
 using namespace std;
 
-#if 0
+
 int main() {
     // Tam sayý (integer) veri tipi
     int sayi = 42;
@@ -49,4 +49,3 @@ int main() {
 
     return 0; // Program baþarýyla sona erdiðinde 0 döndürür
 }
-#endif
