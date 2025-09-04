@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Fonksiyonlar_Giris.cpp" />
+  <None Include="README.md" />
+  <ClCompile Include="01_Fonksiyonlar_Giris.cpp" />
   <ClCompile Include="02_Parametreler_DonusDegerleri.cpp" />
   <ClCompile Include="03_DegerReferansFarki.cpp" />
   <ClCompile Include="04_RekursifFonksiyon.cpp" />
