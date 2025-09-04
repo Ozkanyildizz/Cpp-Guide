@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (02_Fonksiyonlar_Diziler.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  01_Fonksiyonlar_Giris.cpp
+  02_Parametreler_DonusDegerleri.cpp
+  03_DegerReferansFarki.cpp
+  04_RekursifFonksiyon.cpp
+  05_TekBoyutluDizi.cpp
+  06_CokBoyutluDizi.cpp
+  07_KarakterDizileri.cpp
+  08_DiziUygulamasi_Siralama.cpp
+  Generating Code...
+  02_Fonksiyonlar_Diziler.vcxproj -> C:\Users\Özkan\source\repos\Cpp_Guide\x64\Debug\02_Functions_Arrays.exe

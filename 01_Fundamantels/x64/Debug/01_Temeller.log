@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01_Temeller.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  01_HelloWorld.cpp
+  02_Variables.cpp
+  03_DataTypes.cpp
+  04_Operators.cpp
+  05_ConditionalStatements.cpp
+  06_Loops.cpp
+  07_InputOutput.cpp
+  08_SimpleCalculator.cpp
+  Generating Code...
+02_Variables.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+03_DataTypes.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+04_Operators.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+05_ConditionalStatements.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+06_Loops.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+07_InputOutput.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+08_SimpleCalculator.obj : error LNK2005: main already defined in 01_HelloWorld.obj
+C:\Users\Özkan\source\repos\Cpp_Guide\x64\Debug\01_Fundamentals.exe : fatal error LNK1169: one or more multiply defined symbols found

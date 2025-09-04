@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="01_HelloWorld.cpp" />
+    <ClCompile Include="02_Variables.cpp" />
+    <ClCompile Include="03_DataTypes.cpp" />
+    <ClCompile Include="04_Operators.cpp" />
+    <ClCompile Include="05_ConditionalStatements.cpp" />
+    <ClCompile Include="06_Loops.cpp" />
+    <ClCompile Include="07_InputOutput.cpp" />
+    <ClCompile Include="08_SimpleCalculator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>
