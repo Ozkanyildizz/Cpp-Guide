@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="01_KodlamaStandartlari.cpp" />
-    <ClCompile Include="02_YorumlamaVeDokumantasyon.cpp" />
-    <ClCompile Include="03_DebuggingOrnekleri.cpp" />
-    <ClCompile Include="04_BellekYonetimiOrnekleri.cpp" />
-    <ClCompile Include="05_PerformansIpuclari.cpp" />
-    <ClCompile Include="06_CleanCodeOrnekleri.cpp" />
+    <ClCompile Include="01_CodingStandards.cpp" />
+    <ClCompile Include="02_CommentsAndDocumentation.cpp" />
+    <ClCompile Include="03_DebuggingExamples.cpp" />
+    <ClCompile Include="04_MemoryManagementExamples.cpp" />
+    <ClCompile Include="05_PerformanceTips.cpp" />
+    <ClCompile Include="06_CleanCodeExamples.cpp" />
     <ClCompile Include="07_ProjeKlasorYapisi.cpp" />
-    <ClCompile Include="08_FinalUygulama_MiniProje.cpp" />
+    <ClCompile Include="08_FinalApplication_MiniProject.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="code_style.md" />
