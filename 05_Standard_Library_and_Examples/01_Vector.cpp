@@ -1,20 +1,60 @@
-// 05_Standart_Kutuphane_ve_Uygulama.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
 
-#include <iostream>
+#if 0
 
-int main()
-{
-    std::cout << "Hello World!\n";
+
+int main() {
+    // Create a vector of integers
+    vector<int> numbers = { 5, 2, 9, 1, 7 };
+
+    cout << "Original vector: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Add elements
+    numbers.push_back(10);
+    numbers.push_back(3);
+    cout << "After push_back: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Remove last element
+    numbers.pop_back();
+    cout << "After pop_back: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Insert element at position 2
+    numbers.insert(numbers.begin() + 2, 99);
+    cout << "After insert at index 2: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Erase element at position 3
+    numbers.erase(numbers.begin() + 3);
+    cout << "After erase at index 3: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Sort vector
+    sort(numbers.begin(), numbers.end());
+    cout << "After sorting: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Reverse vector
+    reverse(numbers.begin(), numbers.end());
+    cout << "After reversing: ";
+    for (auto n : numbers) cout << n << " ";
+    cout << endl;
+
+    // Size of vector
+    cout << "Vector size: " << numbers.size() << endl;
+
+    return 0;
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+#endif // 0

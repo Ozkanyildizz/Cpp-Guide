@@ -127,14 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_SinifNesne.cpp" />
-    <ClCompile Include="02_YapiciYikici.cpp" />
-    <ClCompile Include="03_Kapsulleme.cpp" />
-    <ClCompile Include="04_Kalitim.cpp" />
+    <ClCompile Include="01_Class_Object.cpp" />
+    <ClCompile Include="02_Constructor_Destructor.cpp" />
+    <ClCompile Include="03_Encapsulation.cpp" />
+    <ClCompile Include="04_Inheritance.cpp" />
     <ClCompile Include="05_Polymorphism.cpp" />
-    <ClCompile Include="06_SoyutSinifArayuz.cpp" />
+    <ClCompile Include="06_AbstractClass_Interface.cpp" />
     <ClCompile Include="07_OperatorOverloading.cpp" />
-    <ClCompile Include="08_OOPUygulamasi_OgrenciYonetim.cpp" />
+    <ClCompile Include="08_OOP_StudentManagement.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

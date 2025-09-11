@@ -133,9 +133,9 @@
     <ClCompile Include="03_Set_UnorderedSet.cpp" />
     <ClCompile Include="04_Map_UnorderedMap.cpp" />
     <ClCompile Include="05_StackQueue.cpp" />
-    <ClCompile Include="06_Algoritmalar.cpp" />
-    <ClCompile Include="07_DosyaIslemleri.cpp" />
-    <ClCompile Include="08_Uygulama_KitapYonetim.cpp" />
+    <ClCompile Include="06_Algorithms.cpp" />
+    <ClCompile Include="07_FileOperations.cpp" />
+    <ClCompile Include="08_Application_BookManagement.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

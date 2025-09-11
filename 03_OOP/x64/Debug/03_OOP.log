@@ -1,10 +1,2 @@
-﻿  01_SinifNesne.cpp
-  02_YapiciYikici.cpp
-  03_Kapsulleme.cpp
-  04_Kalitim.cpp
-  05_Polymorphism.cpp
-  06_SoyutSinifArayuz.cpp
-  07_OperatorOverloading.cpp
-  08_OOPUygulamasi_OgrenciYonetim.cpp
-  Generating Code...
+﻿  08_OOP_StudentManagement.cpp
   03_OOP.vcxproj -> C:\Users\Özkan\source\repos\Cpp_Guide\x64\Debug\03_OOP.exe

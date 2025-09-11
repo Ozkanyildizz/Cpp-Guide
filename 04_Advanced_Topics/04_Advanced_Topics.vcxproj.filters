@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="01_PointerGiris.cpp" />
+    <ClCompile Include="01_PointerIntroduction.cpp" />
     <ClCompile Include="02_Referanslar.cpp" />
-    <ClCompile Include="03_DinamikBellek.cpp" />
+    <ClCompile Include="03_DynamicMemory.cpp" />
     <ClCompile Include="04_SmartPointer.cpp" />
     <ClCompile Include="05_Templates.cpp" />
-    <ClCompile Include="06_ExceptionHandling.cpp" />
-    <ClCompile Include="07_LambdaFonksiyonlar.cpp" />
+    <ClCompile Include="06_ExceptionHandling2.cpp" />
+    <ClCompile Include="07_LambdaFunctions.cpp" />
     <ClCompile Include="08_ModernC++Ozellikleri.cpp" />
+    <ClCompile Include="06_ExceptionHandling1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
