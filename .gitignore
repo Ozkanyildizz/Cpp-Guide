@@ -1,4 +1,4 @@
-# Prerequisites
+﻿# Prerequisites
 *.d
 
 *.vs
@@ -42,3 +42,5 @@
 
 # debug information files
 *.dwo
+
+.idea
