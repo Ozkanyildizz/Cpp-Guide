@@ -129,14 +129,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="README.md" />
-    <ClCompile Include="01_Fonksiyonlar_Giris.cpp" />
-    <ClCompile Include="02_Parametreler_DonusDegerleri.cpp" />
-    <ClCompile Include="03_DegerReferansFarki.cpp" />
-    <ClCompile Include="04_RekursifFonksiyon.cpp" />
-    <ClCompile Include="05_TekBoyutluDizi.cpp" />
-    <ClCompile Include="06_CokBoyutluDizi.cpp" />
-    <ClCompile Include="07_KarakterDizileri.cpp" />
-    <ClCompile Include="08_DiziUygulamasi_Siralama.cpp" />
+    <ClCompile Include="01_Functions_Introduction.cpp" />
+    <ClCompile Include="02_Function_Parameters_Return.cpp" />
+    <ClCompile Include="03_Value_vs_Reference.cpp" />
+    <ClCompile Include="04_Recursive_Function.cpp" />
+    <ClCompile Include="05_OneDimensional_Array.cpp" />
+    <ClCompile Include="06_MultiDimensional_Array.cpp" />
+    <ClCompile Include="07_Character_Arrays.cpp" />
+    <ClCompile Include="08_Array_Sorting.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

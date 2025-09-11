@@ -48,3 +48,6 @@ int main() {
     }
     return 0; // Returns 0 when the program ends successfully
 }
+
+int new_number() {
+}
