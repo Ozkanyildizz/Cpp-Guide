@@ -5,7 +5,7 @@ using namespace std;
 
 /*
     Program: Mini Student Management System
-    Author: Your Name
+    Author: Özkan Yıldız
     Date: 2025-09-11
     Description: A simple student management mini-project demonstrating
                  OOP, vectors, and clean code principles.

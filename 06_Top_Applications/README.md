@@ -1,4 +1,4 @@
-# 📘 En İyi Uygulamalar
+﻿# 📘 En İyi Uygulamalar
 
 Bu bölümde C++ kodunu daha **okunabilir**, **bakımı kolay** ve **performanslı** yazmayı öğreniyoruz.  
 

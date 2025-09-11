@@ -12,9 +12,6 @@ unsigned long long factorial(int n) {
 }
 
 #if 0
-
-
-
 int main() {
     int number;
     cout << "Enter a non-negative integer (max ~20): ";
